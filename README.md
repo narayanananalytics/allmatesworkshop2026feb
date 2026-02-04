@@ -27,3 +27,36 @@ The user id and password will be provided to you during the workshop.
 
 ![allmates login](images/navigation_basics.png)
 
+## Introducing Workspace
+
+![allmates login](images/workspace.png)
+
+## Introducing Collab
+
+![allmates login](images/collab.png)
+
+## Workshop Workspace
+
+![allmates login](images/workshop_workspace.png)
+
+## Organization Settings
+
+### Information
+
+![allmates login](images/organization_settings.png)
+
+### Description
+![allmates login](images/organization_settings_description.png)
+
+## Setting the Profile
+
+![allmates login](images/profile.png)
+
+## Starting a conversation
+
+![allmates login](images/starting_a_conversation.png)
+
+Also follow available in Collab
+
+[1. Company Profile and Role](https://app.allmates.ai/o/kms-demo/workshop-feb-2026/projects/6HEtsWc7Gf2zvLSsFW9r/chat)
+
