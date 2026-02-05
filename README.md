@@ -152,5 +152,10 @@ Follow the steps from
 
 [3. Sales Overview](https://app.allmates.ai/o/kms-demo/workshop-feb-2026/projects/mC55hcXrWsepHSNTHqgf/chat)
 
+## Create a go-to-market plan for a new market
+
+![allmates ](images/create_a_goto_market_strategy_for_new_market.png)
+
+[4. Create a go-to-market plan for a new market](https://app.allmates.ai/o/kms-demo/workshop-feb-2026/projects/2iPXqhnaoSdRZzaTKae1/chat)
 
 
