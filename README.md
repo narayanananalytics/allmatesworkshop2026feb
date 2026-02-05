@@ -127,3 +127,30 @@ Here are the characteristics of the expected result: Comprehensive analysis cove
 
 If you do not know how to answer, say so. If it's Ok for you, go ahead.
 ```
+
+## Create a mate (nn-market-researcher)
+
+![allmates ](images/creating_nn_market_researcher_2.png)
+
+## Create a mate (nn-market-researcher)
+
+![allmates ](images/creating_nn_market_researcher_3.png)
+
+## Create a mate (nn-market-researcher)
+
+![allmates ](images/creating_nn_market_researcher_4.png)
+
+## Create a mate (nn-market-researcher)
+
+![allmates ](images/creating_nn_market_researcher_5.png)
+
+## Using Data Analyst to perform analytic queries
+
+![allmates ](images/using_data_analyst_to_perform_queries.png)
+
+Follow the steps from 
+
+[3. Sales Overview](https://app.allmates.ai/o/kms-demo/workshop-feb-2026/projects/mC55hcXrWsepHSNTHqgf/chat)
+
+
+
